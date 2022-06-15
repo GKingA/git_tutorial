@@ -4,7 +4,7 @@ Welcome to the git tutorials!
 
 # Authentication
 
-First things first you should learn the two authentication methods you can use with github.
+First things first you should learn the two main authentication methods you can use with github.
 
 Why do you need authentication? To use git from your own computer; be able to clone, pull, push to any repository that you have access to.
 
@@ -14,7 +14,10 @@ One way to authenticate yourself on GitHub is to use Personal Access Tokens (PAT
 
 What are the advantages?
  - You can set it up quickly
- - You can set the access priviliges
- - It can expire
+ - You can set the access privileges
+ - You can set an expiration date
+
+And the disadvantages?
+ - Not as secure: the token string will be stored in a hidden plain text file
 
 ## SSH key
